@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/gabri/Downloads/Programacion_Paralela",
-      "program": "c:/Users/gabri/Downloads/Programacion_Paralela/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/home/gabriel/Descargas/Programacion_Paralela",
+      "program": "/home/gabriel/Descargas/Programacion_Paralela/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
